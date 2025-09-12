@@ -1,1 +1,15 @@
 
+{
+  "name": "com.google.signin",
+  "displayName": "Google Sign-In (Yi UPM)",
+  "version": "1.0.0-upm",
+  "unity": "2020.3",
+  "description": "UPM-wrapped Google Sign-In (Yi fork) for Android. Used with platform auto-switching between Android (Yi) and iOS (Thaina).",
+  "keywords": ["google", "signin", "auth"],
+  "author": {
+    "name": "FangeLLL",
+    "url": "https://github.com/FangeLLL"
+  },
+  "license": "MIT",
+  "hideInEditor": false
+}
