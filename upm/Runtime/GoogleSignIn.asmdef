@@ -1,0 +1,9 @@
+{
+  "name": "GoogleSignIn",
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "includePlatforms": ["Android"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "noEngineReferences": false
+}
