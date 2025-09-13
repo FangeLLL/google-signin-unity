@@ -2,7 +2,7 @@
   "name": "GoogleSignIn",
   "autoReferenced": true,
   "overrideReferences": false,
-  "includePlatforms": ["Android"],
+  "includePlatforms": ["Editor", "Android"],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
   "noEngineReferences": false
